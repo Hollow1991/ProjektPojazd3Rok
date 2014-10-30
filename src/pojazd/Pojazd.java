@@ -6,6 +6,14 @@
 
 package pojazd;
 
+<<<<<<< HEAD
+/**
+ *
+ * @author Krzysztof Poznakowski
+ */
+public class Pojazd {
+    
+=======
 import nadwozie.*;
 /**
  * @author Krzysztof Poznakowski
@@ -29,4 +37,5 @@ public class Pojazd {
     
     System.out.println("[nadwozie.Lusterko] Utworzono obiekt klasy Lusterko");
     }
+>>>>>>> 1f94aafd687eaa5fbe5399048b9dbdf7c8dce95e
 }
