@@ -8,7 +8,6 @@ package pojazd;
 
 import nadwozie.*;
 /**
- *
  * @author Krzysztof Poznakowski
  */
 
