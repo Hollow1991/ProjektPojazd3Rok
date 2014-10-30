@@ -8,7 +8,7 @@ package osprzet;
 
 /**
  * Klasa służy do reprezentowania filtra powietrza w pojeździe
- * @author student
+ * @author Piotr Zimnicki (xaoo99)
  */
 public class FiltrPowietrza 
 {

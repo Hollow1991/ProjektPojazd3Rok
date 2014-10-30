@@ -8,7 +8,7 @@ package elektronika;
 
 /**
  * Klasa służy do reprezentowania systemu nawigacji w pojeździe
- * @author student
+ * @author Piotr Zimnicki (xaoo99)
  */
 public class SystemNawigacji 
 {
