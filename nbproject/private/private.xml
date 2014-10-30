@@ -3,12 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/nadwozie/Maska.java</file>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/nadwozie/Zderzak.java</file>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/nadwozie/Drzwi.java</file>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/test/Test.java</file>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/nadwozie/Lusterko.java</file>
-            <file>file:/C:/Users/dominisz/Documents/NetBeansProjects/ProjektPojazd3Rok/src/nadwozie/Nadwozie.java</file>
+<<<<<<< HEAD
+            <file>file:/C:/roboczy/ProjektPojazd3Rok/src/nadwozie/Lusterko.java</file>
+            <file>file:/C:/roboczy/ProjektPojazd3Rok/src/nadwozie/Drzwi.java</file>
+            <file>file:/C:/roboczy/ProjektPojazd3Rok/src/osprzet/FiltrPowietrza.java</file>
+            <file>file:/C:/roboczy/ProjektPojazd3Rok/src/elektronika/SystemNawigacji.java</file>
+=======
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/nadwozie/Lusterko.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/nadwozie/Drzwi.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/elektronika/Autoalarm.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/nadwozie/Nadwozie.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/nadwozie/Maska.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/test/Test.java</file>
+            <file>file:/home/patryk/zarz/ProjektPojazd3Rok/src/osprzet/FiltrOleju.java</file>
+>>>>>>> 4fcf5731bc3134575b3f5e340c8b534f3ec70237
         </group>
     </open-files>
 </project-private>
