@@ -15,14 +15,12 @@ public class Pojazd {
     private Elektronika elektronika;
     
     public Pojazd() {
-        
-    nadwozie = new Nadwozie();
-    podwozie = new Podwozie();
-    silnik = new Silnik();
-    osprzet = new Osprzet();
-    eletronika = new Elektronika();
-    
-    System.out.println("[nadwozie.Lusterko] Utworzono obiekt klasy Lusterko");
+        nadwozie = new Nadwozie();
+        podwozie = new Podwozie();
+        silnik = new Silnik();
+        osprzet = new Osprzet();
+        elektronika = new Elektronika();    
+        System.out.println("[nadwozie.Lusterko] Utworzono obiekt klasy Lusterko");
     }
 
 }
