@@ -20,7 +20,7 @@ public class Pojazd {
         silnik = new Silnik();
         osprzet = new Osprzet();
         elektronika = new Elektronika();    
-        System.out.println("[nadwozie.Lusterko] Utworzono obiekt klasy Lusterko");
+        System.out.println("[podwozie.Podwozie] Utworzono obiekt klasy Podwozie");
     }
 
 }
