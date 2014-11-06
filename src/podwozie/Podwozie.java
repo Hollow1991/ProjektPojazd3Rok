@@ -5,8 +5,9 @@
  */
 package podwozie;
 
-import podwozie.ukladHamulcowy.KlocekHamulcowy;
-import podwozie.ukladHamulcowy.PedalHamulca;
+import podwozie.ukladHamulcowy.*;
+import podwozie.zawieszenie.*;
+import podwozie.ukladKierowniczy.*;
 
 /**
  *
